@@ -3,6 +3,7 @@ package com.sbugert.rnadmob;
 import android.os.Handler;
 import android.os.Looper;
 import android.support.annotation.Nullable;
+import android.app.Activity;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Callback;
